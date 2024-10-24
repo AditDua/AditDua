@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Coding Journey! 🌟
 
-![Welcome Animation](https://media.giphy.com/media/l1J9q3WAEpDCRW6m8/giphy.gif)
+![Welcome Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 👤 About Me
 
@@ -12,7 +12,7 @@ Hello! I am **Adit Dua**, a passionate coder who thrives on challenges and innov
 - 💻 **Versatile Experience**: I have hands-on experience with various programming languages, including Python, Java, and more.
 - 🎓 **Current Education**: I am pursuing a **BSc in Computer Science**, where I deepen my knowledge and hone my skills.
 
-![Coding Animation](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/3o7aD2sa6UEDr9W4B6/giphy.gif)
 
 ## 🚀 My Skills
 
@@ -20,7 +20,7 @@ Hello! I am **Adit Dua**, a passionate coder who thrives on challenges and innov
 - **Frameworks**: React, Flask, Django
 - **Tools**: Git, Eclipse, VS Code, Google Colab, Jupyter
 
-![Skills Animation](https://media.giphy.com/media/xT0xemV2rABK0T5D4w/giphy.gif)
+![Skills Animation](https://media.giphy.com/media/l0MYI3xtk3R3DJQ5i/giphy.gif)
 
 ## 💬 Let's Connect!
 
@@ -29,6 +29,6 @@ Feel free to reach out if you want to collaborate, share ideas, or just chat abo
 - [LinkedIn](https://www.linkedin.com/in/adit-dua-3143a328a/)
 - [GitHub](https://github.com/AditDua)
 
-![Thank You Animation](https://media.giphy.com/media/5xaOcLJ4bCye23bO6H2/giphy.gif)
+![Thank You Animation](https://media.giphy.com/media/26tPj9ImM5xV76R0g/giphy.gif)
 
 ---
