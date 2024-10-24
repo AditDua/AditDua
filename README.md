@@ -24,4 +24,5 @@ Feel free to reach out if you want to collaborate, share ideas, or just chat abo
 - [LinkedIn](https://www.linkedin.com/in/adit-dua-3143a328a/)
 - [GitHub](https://github.com/AditDua)
 
+![Welcome Animation](https://media.giphy.com/media/l1J9q3WAEpDCRW6m8/giphy.gif)
 ---
