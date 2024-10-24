@@ -17,11 +17,6 @@ Hello! I am **Adit Dua**, a passionate coder who thrives on challenges and innov
 - **Frameworks**: React, Flask, Django
 - **Tools**: Git, Eclipse , VS Code, Google Collab, Jupyter
 
-## 🎯 Projects
-
-- **Iris Flower Species Prediction App**: A Streamlit app that classifies iris flowers using machine learning algorithms.
-- **Penguin Species Prediction App**: A web app that predicts the species of penguins based on physical characteristics and location.
-
 ## 💬 Let's Connect!
 
 Feel free to reach out if you want to collaborate, share ideas, or just chat about coding!
