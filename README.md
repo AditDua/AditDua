@@ -27,5 +27,6 @@ Feel free to reach out if you want to collaborate, share ideas, or just chat abo
 - [LinkedIn](https://www.linkedin.com/in/adit-dua-3143a328a/)
 - [GitHub](https://github.com/AditDua)
 
-<iframe src="https://giphy.com/embed/llgu2C0VuPkPam7ehF" width="480" height="408" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blm-moozle-moozlehome-llgu2C0VuPkPam7ehF">via GIPHY</a></p>
+![Thank You Animation](https://media.giphy.com/media/llgu2C0VuPkPam7ehF/giphy.gif)
+
 ---
