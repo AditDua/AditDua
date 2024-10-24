@@ -12,7 +12,7 @@ Hello! I am **Adit Dua**, a passionate coder who thrives on challenges and innov
 - 💻 **Versatile Experience**: I have hands-on experience with various programming languages, including Python, Java, and more.
 - 🎓 **Current Education**: I am pursuing a **BSc in Computer Science**, where I deepen my knowledge and hone my skills.
 
-![Coding Animation](https://media.giphy.com/media/3o7aD2sa6UEDr9W4B6/giphy.gif)
+![About Me Animation](https://media.giphy.com/media/3o6Zt1kXgO29u6X3aE/giphy.gif)
 
 ## 🚀 My Skills
 
