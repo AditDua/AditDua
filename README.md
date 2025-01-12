@@ -10,7 +10,7 @@ Hello! I am **Adit Dua**, a passionate coder who thrives on challenges and innov
 
 - 🎉 **Passion for Coding**: Coding isn't just a skill for me; it's a creative outlet where I bring ideas to life.
 - 💻 **Versatile Experience**: I have hands-on experience with various programming languages, including Python, Java, and more.
-- 🎓 **Current Education**: I am pursuing a **BSc in Computer Science**, where I deepen my knowledge and hone my skills.
+- 🎓 **Current Education**: I am pursuing a **Honours BSc in Computer Science**, where I deepen my knowledge and hone my skills.
 
 
 ## 🚀 My Skills
