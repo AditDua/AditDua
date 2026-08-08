@@ -15,9 +15,10 @@ Hello! I am **Adit Dua**, a passionate coder who thrives on challenges and innov
 
 ## 🚀 My Skills
 
-- **Languages**: Python, Java, JavaScript, HTML/CSS
-- **Frameworks**: React, Flask, Django
-- **Tools**: Git, Eclipse, VS Code, Google Colab, Jupyter
+- **Languages**: Python, JavaScript, SQL, HTML/CSS, R, Java, C/C++, Matlab, VBA, PHP, Go
+- **Databases & Cloud**: Snowflake, SQL Server, Docker, Google Cloud, Firebase, AWS, Databricks
+- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, TFLite, Matplotlib, OpenCV, SciPy, YOLO, PyTorch, pytesseract
+- **Tools**: Tableau, Splunk, Excel, Power BI, Jupyter Notebook, VS Code, Git, Azure DevOps, Azure Data Factory
 
 
 ## 💬 Let's Connect!
