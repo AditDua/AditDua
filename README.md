@@ -1,4 +1,4 @@
----
+
 # 🌟 Welcome to My Coding Journey! 🌟
 
 ![Welcome Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -29,4 +29,4 @@ Feel free to reach out if you want to collaborate, share ideas, or just chat abo
 
 ![Thank You Animation](https://media.giphy.com/media/llgu2C0VuPkPam7ehF/giphy.gif)
 
----
+
